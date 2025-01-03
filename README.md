@@ -44,7 +44,8 @@ In the VM we were provided with IP address, copy that and open Remote Desktop co
 
 ### **Sample Log with Powershell Script**
 
-<img width="633" alt="image" src="https://github.com/anvithalolla/Azure-Sentinel-Honeypot-Real-Time-RDP-Attack-Detection/assets/55392153/c841a82f-0666-47c5-88c4-5ba8b7f25353">
+<img width="633" alt="291138765-c841a82f-0666-47c5-88c4-5ba8b7f25353" src="https://github.com/user-attachments/assets/10d9082d-3e51-4fb8-9993-4b1aa03b15f2" />
+
 
 - You can see above, that the script is working. You are already able to see RDP attempts being logged. The data is being saved locally in the c/programdata/failed_rdp as .log file.
 
